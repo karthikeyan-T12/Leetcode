@@ -10,17 +10,16 @@ public class alternativesum
         int j=1;
         int le=nums.length;
         boolean c=true;
-        while(c) {
-            if (j <= le) {
+        int result=0;
+        while(j < le){
                 int total = nums[i] - nums[j];
                 sum += total;
                 i += 2;
-            }
-            else
-            {
-                System.out.println(nums[i]);
-                c=false;
-            }
+                j += 2;
+        }
+        if(i<le)
+        {
+            sum+=nums[0];
         }
         System.out.println(sum);
     }
