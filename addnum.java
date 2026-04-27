@@ -1,5 +1,6 @@
+package Leetcode;
 import java.util.Arrays;
-class solution{
+class Solution{
     public int[] twosum(int[] num,int count){
         int n=num.length;
         for(int i=0;i<n-1;i++){
@@ -14,7 +15,7 @@ class solution{
 }
 public class addnum{
     public static void main(String[] args) {
-        solution s1=new solution();
+        Solution s1=new Solution();
         int[] a={3,2,4};
         int[] b=s1.twosum(a,6);
         System.out.println(Arrays.toString(b));        

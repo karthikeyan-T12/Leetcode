@@ -1,4 +1,4 @@
-
+package Leetcode;
 import java.util.Arrays;
 
 class solve {

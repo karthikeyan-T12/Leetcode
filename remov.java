@@ -1,3 +1,4 @@
+package Leetcode;
 import java.util.Arrays;
 class twopo{
     public int removeelement(int[] nums,int valus){

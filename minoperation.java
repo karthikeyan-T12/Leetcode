@@ -1,4 +1,4 @@
-package com.leetcode.pratice;
+package Leetcode;
 
 class minopp
 {

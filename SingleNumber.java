@@ -1,5 +1,4 @@
-package com.leetcode.pratice;
-
+package Leetcode;
 public class SingleNumber
 {
     public static void main(String args[])

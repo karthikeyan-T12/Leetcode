@@ -1,3 +1,4 @@
+package Leetcode;
 class sea1{
     public int searchinsert(int[] nums,int valus){
         int left=0;

@@ -1,3 +1,4 @@
+package Leetcode;
 import java.util.Arrays;
 class removing{
     public int removeduplice(int[] nums){
