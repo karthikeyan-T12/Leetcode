@@ -1,5 +1,5 @@
 package Leetcode;
-public class bestpair
+public class bestpair1512
 {
     public static void main(String args[])
     {

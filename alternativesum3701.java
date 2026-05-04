@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class alternativesum
+public class alternativesum3701
 {
     public static void main(String args[])
     {
